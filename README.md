@@ -33,8 +33,12 @@ Step 8 :
 Save and Run the Program.
 
 ## Program:
+
+Developed By: PRAKASH M
+Register No: 212222100035
+
 block.x=1023
-```python
+```
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>

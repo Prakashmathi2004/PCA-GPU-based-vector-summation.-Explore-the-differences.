@@ -39,7 +39,7 @@ Save and Run the Program.
 
  
 block.x=1023
-```
+```python
 #include "../common/common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
